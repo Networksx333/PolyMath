@@ -1,0 +1,12 @@
+export const CHANGE_LOGIN = "CHANGE_LOGIN";
+export const CHANGE_PASSWORD = "CHANGE_PASSWORD";
+export const SHOW_WARNING_MODAL = "SHOW_WARNING_MODAL";
+export const UPDATE_USER = "UPDATE_USER";
+export const SET_LOGGED_IN = "SET_LOGGED_IN";
+export const SET_NUMBER_OF_PRACTICE = "SET_NUMBER_OF_PRACTICE";
+export const UPDATE_CROWN = "UPDATE_CROWN";
+export const CHANGE_ID = "CHANGE_ID";
+export const UPDATE_HEART = "UPDATE_HEART";
+export const SET_TIME = "SET_TIME";
+export const SET_STATE_DEFAULT = "SET_STATE_DEFAULT";
+export const SET_POWERS = "SET_POWERS";
