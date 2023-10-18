@@ -1,5 +1,7 @@
 # PolyMath: Train Your Probability Skills
 
+<img src="https://github.com/Networksx333/PolyMath/blob/main/DottedBG.png">
+
 ## Welcome to PolyMath
 Get ready to enhance your problem-solving abilities in probability theory with PolyMath - the ultimate application for mastering the art of probability!
 
